@@ -1,2 +1,2 @@
 # MockWebsite
-Repository for Mock-up Website (03:12)
+Repository for Mock-up Website Lesson-03:12
